@@ -201,11 +201,9 @@ PUT SCREENSHOTS
 
 # NPC's
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Lucky Cricket's Caravan for CBBE - SHB.](https://www.nexusmods.com/fallout4/mods/20298) | todo | todo |
-| [Immersive Wastelanders](https://www.nexusmods.com/fallout4/mods/19544) | I just hand-pick Piper, Magnolia, Cait, Tina deLuca & Glory, but you can pick whatever you like best. | Not needed. |
-| [Sexy Hancock](https://www.nexusmods.com/fallout4/mods/12029) | todo | Not needed. |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Better Children](https://www.nexusmods.com/cyberpunk2077/mods/16462) | Better faces for children: make Night City's minors more childlike and less creepy. No dependencies required! | Not needed. | :tv: todo |
    
 # Companions / New companions
 
