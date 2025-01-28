@@ -18,10 +18,11 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | 1 | [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198) | Archive extension loader. | Not needed. | Not needed. |
 
 
-# Fix/fixes
+# Fix / fixes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
 
 # Locations
 
