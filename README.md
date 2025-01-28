@@ -16,13 +16,16 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198) | Archive extension loader. | Not needed. | Not needed. |
-
+| 2 | [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) | Scripting framework for modders and quality of life fixes. | Not needed. | Not needed. |
+| 3 | [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) | This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu. | Not needed. | Not needed. |
 
 # Fix / fixes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
+| 1 | [No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533) | Disables the game intro videos. | Not needed. | Not needed. |
+| 2 | [Faster Elevators](https://www.nexusmods.com/cyberpunk2077/mods/18389) | Allows you to adjust the speed of elevators. | 
+| 3 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
 
 # Locations
 
