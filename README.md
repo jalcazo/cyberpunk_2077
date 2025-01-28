@@ -16,13 +16,18 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198) | Archive extension loader. | Not needed. | Not needed. |
-
+| 2 | [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) | Scripting framework for modders and quality of life fixes. | Not needed. | Not needed. |
+| 3 | [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) | This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu. | Not needed. | Not needed. |
 
 # Fix / fixes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
+| 1 | [No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533) | Disables the game intro videos. | Not needed. | Not needed. |
+| 2 | [Faster Elevators](https://www.nexusmods.com/cyberpunk2077/mods/18389) | Allows you to adjust the speed of elevators. | 
+| 3 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
+| 4 | [Slow Firing Rate on Longer Saves Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/18768) | There is a bug in the game which causes the firing rate of auto and burst weapons to slow down as your total play time (since beginning the character) increases. This bug affects all playthroughs and (auto) weapons. This mod mostly fixes it, as much as is possible. | Not needed. | :tv: [Slow Firing Rate on Longer Saves Bug Fix](https://www.youtube.com/watch?v=HHU3gX2LhOY) |
+| 5 | [Effects Rendering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19258) | A workaround for 2.0 bug related to effects rendering that would cause ugly-looking particles with constant motion blur/aliasing. | Not needed. | :tv: [Effects Rendering Fix](https://www.youtube.com/watch?v=7V2y5NqSgeU) |
 
 # Locations
 
@@ -254,6 +259,10 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) | Adds a new (holographic) feline companion, Leia, to the Corpo Plaza apartment. Includes 11 different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. Includes 3 holographic appearances as well as a non-holo normal cat one. | Not needed. | :tv: todo |
+| 2 | [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) | Adds a new feline companion, Jack, to the Northside motel apartment. Includes 9 different spots for him to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
+
+Apartment Cats - Northside Motel:
 
  # Magazines
 
@@ -269,6 +278,7 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [More Blood Splatters](https://www.nexusmods.com/cyberpunk2077/mods/3975) | The blood splatter/decal system in Cyberpunk is severely underutilized. This mod unleashes its potential with a customizable script-based implementation. | Not needed. | :tv: todo |
 
 # Expansions
 
