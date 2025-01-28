@@ -234,6 +234,8 @@ PUT SCREENSHOTS
 | 1 | [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) | Adds a new (holographic) feline companion, Leia, to the Corpo Plaza apartment. Includes 11 different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. Includes 3 holographic appearances as well as a non-holo normal cat one. | Not needed. | :tv: todo |
 | 2 | [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) | Adds a new feline companion, Jack, to the Northside motel apartment. Includes 9 different spots for him to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
 | 3 | [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493) | Adds a new feline companion, Elmo, to the Japantown apartment. Includes 12+ different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
+| 4 | [Apartment Cats - Dogtown](https://www.nexusmods.com/cyberpunk2077/mods/10325) | Adds a new feline companion, Suzi, to the Dogtown "apartment". Includes 12+ different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
+| 5 | [Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276) | Adds a new feline companion (Nali) to The Glen apartment. Includes 12 different spots for Nali to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
 
 <details><summary>Apartment Cats</summary> Japantown: <img src="homes/apartment_cats_japantown1.jpg"><img src="homes/apartment_cats_japantown2.jpg"><img src="homes/apartment_cats_japantown3.jpg"> Northside Motel: <img src="homes/apartment_cats_northside_motel.jpg"></details>
 
@@ -252,16 +254,18 @@ PUT SCREENSHOTS
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
 | 1 | [More Blood Splatters](https://www.nexusmods.com/cyberpunk2077/mods/3975) | The blood splatter/decal system in Cyberpunk is severely underutilized. This mod unleashes its potential with a customizable script-based implementation. | Not needed. | :tv: todo |
+| 2 | [2077 More Gore V3.0](https://www.nexusmods.com/cyberpunk2077/mods/3040) | Adds more gore and detail to blood bursts and head shots. Updated more added, please see details. Game version 2.2 + Phantom Liberty and lower compatible. Blood now looks correct with path tracing enabled. | Not needed. | :tv: todo |
 
 # Expansions
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
 
-# GUI
+# GUI / UI / User interface
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486) | (Updated to 2.2) Adds additional loot markers on looting containers that show which types of loot are in it. | Not needed. | :tv: todo |
 
 # Map
 
