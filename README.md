@@ -259,6 +259,10 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) | Adds a new (holographic) feline companion, Leia, to the Corpo Plaza apartment. Includes 11 different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. Includes 3 holographic appearances as well as a non-holo normal cat one. | Not needed. | :tv: todo |
+| 2 | [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) | Adds a new feline companion, Jack, to the Northside motel apartment. Includes 9 different spots for him to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
+
+Apartment Cats - Northside Motel:
 
  # Magazines
 
@@ -274,6 +278,7 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [More Blood Splatters](https://www.nexusmods.com/cyberpunk2077/mods/3975) | The blood splatter/decal system in Cyberpunk is severely underutilized. This mod unleashes its potential with a customizable script-based implementation. | Not needed. | :tv: todo |
 
 # Expansions
 
