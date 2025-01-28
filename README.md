@@ -233,8 +233,9 @@ PUT SCREENSHOTS
 |----------|----------|----------|----------|----------|
 | 1 | [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) | Adds a new (holographic) feline companion, Leia, to the Corpo Plaza apartment. Includes 11 different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. Includes 3 holographic appearances as well as a non-holo normal cat one. | Not needed. | :tv: todo |
 | 2 | [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) | Adds a new feline companion, Jack, to the Northside motel apartment. Includes 9 different spots for him to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
+| 3 | [Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493) | Adds a new feline companion, Elmo, to the Japantown apartment. Includes 12+ different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
 
-<details><summary>Apartment Cats - Northside Motel</summary> <img src="homes/apartment_cats_northside_motel.jpg"></details>
+<details><summary>Apartment Cats</summary> Japantown: <img src="homes/apartment_cats_japantown1.jpg"><img src="homes/apartment_cats_japantown2.jpg"><img src="homes/apartment_cats_japantown3.jpg"> Northside Motel: <img src="homes/apartment_cats_northside_motel.jpg"></details>
 
  # Magazines
 
