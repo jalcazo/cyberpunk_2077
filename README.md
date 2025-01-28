@@ -36,13 +36,20 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 # Immersion
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Windows 77](https://www.nexusmods.com/cyberpunk2077/mods/19306) | Upgrade Your PC To The Latest Version Of Windows. Windows 77! | Not needed. | :tv: todo |
+
+<details><summary>Gold Machetes for Valentinos</summary> <img src="weapons/gold_machete1.jpg"><img src="weapons/gold_machete2.jpg"><img src="weapons/gold_machete3.jpg"></details>
 
 # Meshes
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
+| 1 | [HQ Burger](https://www.nexusmods.com/cyberpunk2077/mods/18970) | This mod only replaces 2 instances of the low quality burger models with CGI grade 3d models made by scanning real world burgers. | Not needed. | :tv: todo |
+
+<details><summary>HQ Burger</summary> Before: <img src="meshes/hqburger_before.jpg"><img src="meshes/hqburger_after.jpg"></details>
+
 
 # Weapons
 
