@@ -27,8 +27,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 | 2 | [Faster Elevators](https://www.nexusmods.com/cyberpunk2077/mods/18389) | Allows you to adjust the speed of elevators. | 
 | 3 | [Horizon Sandstorm Flickering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19142) | Mod fixes the flickering of the horizon sandstorm effect used in quest moments like "Riders on the Storm". | Not needed. | :tv: todo |
 | 4 | [Slow Firing Rate on Longer Saves Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/18768) | There is a bug in the game which causes the firing rate of auto and burst weapons to slow down as your total play time (since beginning the character) increases. This bug affects all playthroughs and (auto) weapons. This mod mostly fixes it, as much as is possible. | Not needed. | :tv: [Slow Firing Rate on Longer Saves Bug Fix](https://www.youtube.com/watch?v=HHU3gX2LhOY) |
-| 5 | [Effects Rendering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19258) | A workaround for 2.0 bug related to effects rendering that would cause ugly-looking particles with constant motion blur/aliasing. | Not needed. | :tv: 
-[Effects Rendering Fix](https://www.youtube.com/watch?v=7V2y5NqSgeU) |
+| 5 | [Effects Rendering Fix](https://www.nexusmods.com/cyberpunk2077/mods/19258) | A workaround for 2.0 bug related to effects rendering that would cause ugly-looking particles with constant motion blur/aliasing. | Not needed. | :tv: [Effects Rendering Fix](https://www.youtube.com/watch?v=7V2y5NqSgeU) |
 
 # Locations
 
