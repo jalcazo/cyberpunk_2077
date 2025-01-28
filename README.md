@@ -50,6 +50,8 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 |----------|----------|----------|----------|----------|
 | 1 | [Gold Machetes for Valentinos](https://www.nexusmods.com/cyberpunk2077/mods/19377) | Valentinos have a unique machete so why isn't it GOLD? | todo | :tv: todo |
 
+<details><summary>Gold Machetes for Valentinos</summary> <img src="weapons/gold_machete1.jpg"><img src="weapons/gold_machete2.jpg"><img src="weapons/gold_machete3.jpg"></details>
+
 # DLC sized expansions
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
