@@ -16,6 +16,8 @@ My modlist for Cyberpunk 2077. I do not claim any copyright or ownership or invo
 | 1 | [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198) | Archive extension loader. | Not needed. | Not needed. |
 | 2 | [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) | Scripting framework for modders and quality of life fixes. | Not needed. | Not needed. |
 | 3 | [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) | This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu. | Not needed. | Not needed. |
+| 4 | [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) | Script extensions. | Not needed. | Not needed. |
+| 5 | [redscript](https://www.nexusmods.com/cyberpunk2077/mods/14730) | Compiler for Cyberpunk2077 scripts. | Not needed. | Not needed. |
 
 # Fix / fixes
 
@@ -238,6 +240,7 @@ PUT SCREENSHOTS
 |----------|----------|----------|----------|----------|
 | 1 | [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486) | (Updated to 2.2) Adds additional loot markers on looting containers that show which types of loot are in it. | Not needed. | :tv: todo |
 | 2 | [Looting QoL](https://www.nexusmods.com/cyberpunk2077/mods/14730) | 
+| 3 | [Speedometer Fixes](https://www.nexusmods.com/cyberpunk2077/mods/9713) | Features proper MPH/KMH conversion, realistic values, and sets the interior labels to km/h (if chosen). | todo | :tv: todo |
 
 Looting QoL: <img src="gui/looting_qol.jpg">
 
