@@ -1,10 +1,8 @@
 # cyberpunk_2077
 
-My modlist for Cyberpunk 2077
+My modlist for Cyberpunk 2077. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 <img src="logo.jpg"/>
-
-My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam up-to-date fresh installation. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
 # Warnings / Remembers
 
@@ -169,36 +167,11 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Proto Vault Suit](https://www.nexusmods.com/fallout4/mods/2187) | todo | todo | :tv: todo |
-| 2 | [Chinese Stealth Suit.](https://www.nexusmods.com/fallout4/mods/20959) | todo | todo | :tv: todo |
-| 3 | [NCR Outfit Pack.](https://www.nexusmods.com/fallout4/mods/58182) | Adds in loads of new NCR outfits from Fallout New Vegas and its DLCs, these can be found at vendors like Fallon's basement. You can buy both the armours and plans to craft them a the chemistry workbench. | todo | :tv: todo |
-| 4 | [CROSS_InstituteExpeditionarySuit.](https://www.nexusmods.com/fallout4/mods/30857) | The outfit is not added to any leveled lists, it can only be found in hand-placed locations or crafted. | todo | :tv: todo |
-| 5 | [The Pip-Boy Glove.](https://www.nexusmods.com/fallout4/mods/80480) | 'Adds the Pip-Boy Glove from Fallout 3 and Fallout New Vegas! Craftable, Upgradeable, and comes in 3 colors.' | [The Pip-Boy Glove - Spanish.](https://www.nexusmods.com/fallout4/mods/80559) | :tv: todo |
-| 6 | [Nuka Gear.](https://www.nexusmods.com/fallout4/mods/11798/) (Elianora - Ellise - DDProductions83) | Mod adds Nuka-Cola-inspired equipment and weapons to the game. They're based on the Nuka-Cola posters found in the game. :tv: [Fallout 4 Mod Showcase: Nuka Gear by Elianora-Ellise-DDProductions83](https://www.youtube.com/watch?v=n8hVjCzmK9E) | todo | :tv: todo |
-| 8 | [Far Harbor Shack. (Elianora)](https://www.nexusmods.com/fallout4/mods/25359) | todo | todo | :tv: todo |
-| 9 | [Eli's Armour Compendium.](https://www.nexusmods.com/fallout4/mods/22431) | todo | [Eli's Armour Compendium (Spanish Translation).](https://www.nexusmods.com/fallout4/mods/24882) | :tv: todo |
-| 10 | [HD Raider Armor](https://www.nexusmods.com/fallout4/mods/15510) | HD retexture for the raider mod armor, sack hood, sack hood with hoses, and sack hood with straps. | Not needed. | :tv: todo |
-| 11 | [SavrenX HD Vanilla Armor](https://www.nexusmods.com/fallout4/mods/40218) | Enhance all Vanilla Armor to highest quality with smallest size. | Not needed. | :tv: todo |
-| 12 | [Raider Armors Retextured](https://www.nexusmods.com/fallout4/mods/42933) | todo | Not needed. | :tv: todo |
-| 13 | [SavrenX HD Vanilla Clothes](https://www.nexusmods.com/fallout4/mods/40203) | Enhance all Vanilla clothes to highest quality with smallest size. | Not needed. | :tv: todo |
-| 14 | [Fallout 4 Capital Wasteland Classic Metal Armor](https://www.nexusmods.com/fallout4/mods/39857) | Adds the classic metal armor from Fallout 3 and Fallout NV to the Commonwealth. | Not needed. | :tv: todo |
-
-<img src="armor/elis_compendium.jpg"/>
-
-| Number | Mod | Brief summary | Spanish translation | Video review |
-|----------|----------|----------|----------|----------|
-| 1 | [Chestnut Lodge - Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/25033) | todo | todo | :tv: todo |
-| 2 | [The Crib - Raider Player Home. (Elianora)](https://www.nexusmods.com/fallout4/mods/46236) | todo | todo | :tv: todo |
-| 3 | [Army Bunker player home and settlement. (Elianora)](https://www.nexusmods.com/fallout4/mods/62209) | todo | todo | :tv: todo |
-    
-<img src="homes/elianora_army_bunker.jpg"/>
 
 # Cut content
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Combat Zone Restored.](https://www.nexusmods.com/fallout4/mods/21498) | :tv: [Working arena, reviewed here by MxR.](https://www.youtube.com/watch?v=9tdoqLwnqCM) | todo | :tv: todo |
-| 2 | [Cut Content - Eddie Lipkis.](https://www.nexusmods.com/fallout4/mods/76207) | NPC cut restored. | todo | :tv: todo |
 
 # Textures
 
@@ -244,7 +217,6 @@ PUT SCREENSHOTS
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
 
-
 # Landscape modifications / Map structures
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
@@ -262,7 +234,7 @@ PUT SCREENSHOTS
 | 1 | [Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) | Adds a new (holographic) feline companion, Leia, to the Corpo Plaza apartment. Includes 11 different spots for her to use, as well as the option to pet her the same way as in the Pet The Cat mod. Includes 3 holographic appearances as well as a non-holo normal cat one. | Not needed. | :tv: todo |
 | 2 | [Apartment Cats - Northside Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) | Adds a new feline companion, Jack, to the Northside motel apartment. Includes 9 different spots for him to use, as well as the option to pet him the same way as in the Pet The Cat mod. | Not needed. | :tv: todo |
 
-Apartment Cats - Northside Motel:
+<details><summary>Apartment Cats - Northside Motel</summary> <img src="homes/apartment_cats_northside_motel.jpg"></details>
 
  # Magazines
 
