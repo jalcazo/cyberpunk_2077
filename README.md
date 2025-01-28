@@ -157,7 +157,7 @@ PUT SCREENSHOTS
 
 | Number | Mod | Brief Summary | Spanish Translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Stealthrunner - Stealth Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/7616) | Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo. Inspired by games like Deus Ex and Dishonored. | :tv: [Reviewed by JuiceHead here](https://www.youtube.com/watch?v=n_wnNJMz9ko&t=279s) |
+| 1 | [Stealthrunner - Stealth Gameplay Expansion](https://www.nexusmods.com/cyberpunk2077/mods/7616) | Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo. Inspired by games like Deus Ex and Dishonored. | todo | :tv: [Reviewed by JuiceHead here](https://www.youtube.com/watch?v=n_wnNJMz9ko&t=279s) |
 
 # NPC's
 
