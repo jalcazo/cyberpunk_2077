@@ -22,8 +22,6 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-| 1 | [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) | :tv: todo |
-| 2 | [Community Tweaks Merged. (different from the other one)](https://www.nexusmods.com/fallout4/mods/83532) | Removes Annoyances; Implements Fixes and Immersive/Performance/Quolity of Life Tweaks. | todo | :tv: todo |
 
 # Locations
 
@@ -50,7 +48,7 @@ My personal mod selection for Fallout 4. Requires all DLCs and ideally a Steam u
 
 | Number | Mod | Brief summary | Spanish translation | Video review |
 |----------|----------|----------|----------|----------|
-
+| 1 | [Gold Machetes for Valentinos](https://www.nexusmods.com/cyberpunk2077/mods/19377) | Valentinos have a unique machete so why isn't it GOLD? | todo | :tv: todo |
 
 # DLC sized expansions
 
